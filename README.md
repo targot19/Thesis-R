@@ -1,5 +1,5 @@
-# Thesis-R
-Statistical analysis in R Studio.
+# Thesis-R  
+Statistical analysis in R Studio.  
 
-dataPreparation.R = extracted data from .csv files.
+dataPreparation.R = extracted data from .csv files.  
 analysisTest.R = data we're running tests on.
